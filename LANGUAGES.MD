@@ -155,4 +155,4 @@ namespace Helloworld {
 ```
 Usage: web servers, games, 3d, windows/desktop apps.
 # Ending.
-These are just the ones that I know. There are a lot of languages in different industries so that you can use them. 
+These are just the ones that I know. There are lots of languages in different industries so that you can use them. 
